@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647550769 source:d:\c\mistrcpy\funciones.c
+	"header.h"
+
+1647550724 d:\c\mistrcpy\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1647550706 source:d:\c\mistrcpy\main.c
+	"header.h"
+
